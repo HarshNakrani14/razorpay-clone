@@ -1,8 +1,25 @@
-# React + Vite
+# Razorpay Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ This project is a clone of the Razorpay website.
+ You can explore and run the project locally by following the steps below.
 
-Currently, two official plugins are available:
+ Demo
+ To see a live demo of the project, click the link below:
+https://harshnakrani14.github.io/razorpay-clone/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Steps to Download and Run the Project:
+
+ 1. Download the Project:
+    - First, download the project files as a .zip archive from this repository.
+    - Extract the .zip file to your desired location.
+
+ 2. Open the Project in Terminal:
+cd path/to/project-folder
+
+ 3. Install Necessary Packages:
+npm install
+
+ 4. Start the Development Server:
+npm run dev
+
+ This will launch the project in your default browser. You can now explore the Razorpay clone locally.
